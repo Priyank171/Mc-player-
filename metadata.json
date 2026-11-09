@@ -1,0 +1,6 @@
+{
+  "name": "MC Player",
+  "description": "Advanced video player with full gesture controls, subtitle customization, and offline media playback.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

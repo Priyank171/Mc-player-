@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">MC Player</string>
+    <string name="title_library">Media Library</string>
+    <string name="title_folders">Folders</string>
+    <string name="title_all_videos">All Videos</string>
+    <string name="title_continue_watching">Continue Watching</string>
+    <string name="title_sample_videos">Demo &amp; Showcase</string>
+    <string name="action_open_picker">Open Video File</string>
+    <string name="action_rescan">Rescan Storage</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_subtitles">Subtitles</string>
+    <string name="action_speed">Playback Speed</string>
+    <string name="action_aspect_ratio">Aspect Ratio</string>
+    <string name="action_lock">Lock Screen</string>
+    <string name="action_unlock">Tap to Unlock</string>
+    <string name="empty_videos_title">No Videos Found</string>
+    <string name="empty_videos_subtitle">Add videos to your device or try our bundled high-definition offline samples below.</string>
+</resources>

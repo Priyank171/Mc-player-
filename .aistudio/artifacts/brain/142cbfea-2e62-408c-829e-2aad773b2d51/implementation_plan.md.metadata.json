@@ -1,0 +1,6 @@
+{
+  "summary":  "Updated implementation plan to reflect the refined 2X speed boost gesture HUD: positioning at the top center with status-bar safe padding, subtle semi-transparent translucent dark background, and a compact 12dp icon with 11sp monospace label.",
+  "updatedAt":  "2026-11-09T17:03:56.935508829Z",
+  "requestFeedback":  true,
+  "userFacing":  true
+}
